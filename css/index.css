@@ -1,0 +1,183 @@
+.customNav {
+    position: fixed;
+    width: 100%;
+    background-color: white !important;
+    background-size: cover;
+    z-index: 10;
+  }
+  
+ p {
+      font-family: 'nunito', sans-serif;
+      color: #797972;
+      padding-left: 30px;
+  }
+
+  h1{
+      font-size: 'playfair display', serif;
+      color: #797972;
+      padding-left: 30px;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+  }
+  
+  .nav-item {
+    margin: 0px 15px;
+  }
+  
+  .dropdown-menu {
+    background: url("../images/transparency.png");
+    background-color: white !important;
+    background-size: cover;
+  }
+  
+  .dropdown-item:focus, .dropdown-item:hover { 
+    color: white;
+    text-decoration: none;
+    background: white;
+  }
+  
+  .customNav a {
+    color: #797972 !important;
+  }
+  
+  .navCTA {
+    font-size: 15px;
+    background-color: white;
+    color: #797972;
+    border: none !important;
+  }
+  
+  .rockBackground {
+    background-image: url(../images/herooo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 684px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .lead {
+    color: white;
+        text-align: center;
+        display: flex;
+       
+        }
+ 
+  .display-4 {
+color: white;
+    text-align: center;
+    display: flex;
+    }
+
+h2 {
+    text-align: center;
+    font-family: 'playfair display', sans-serif;
+    Color: #c419c7;
+}
+
+.solution {
+    text-align: left;
+    font-family: 'playfair display', sans-serif;
+    Color: #797972;
+}
+.cardproblem {
+    background-color: #461A3E;
+    height: 250px;
+    margin-top: 100px;
+}
+
+.row {
+    margin-top: 100px;
+}
+
+.card-body {
+    margin-top: 50px;
+
+
+}
+.card-text{
+    color:white;
+    font-family: 'nunito', sans-serif;
+text-align: center;
+padding: 10px;
+
+}
+
+li {
+    font-family: 'nunito', sans-serif;
+    color: #797972;
+}
+
+.learnings{
+    padding-top: 15px;
+}
+.steps {
+    padding-top: 15px;
+}
+.card-text2{
+    color:white;
+    font-family: 'nunito', sans-serif;
+text-align: center;
+font-weight: bold;
+
+}
+
+h3 {
+    font-family: 'playfair display', serif;
+    color: #c419c7;
+    text-align: center;
+    font-size: 50px;
+}
+
+.card-body.cardimg2 {
+    height: 250px;
+    width: 150px;
+}
+
+.cardinsight {
+    background-color: #f1baa3;
+    height: 250px;
+    margin-top: 125px;
+}
+
+.insight  {
+    text-align: center;
+    font-family: 'playfair display', sans-serif;
+    Color: white;
+}
+
+.card-text2{
+    color:white;
+    font-family: 'nunito', sans-serif;
+text-align: center;
+padding: 10px;
+
+
+}
+
+.insightslist {
+    font-family: 'nunito', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.sitemap {
+    margin-top: 60px;
+}
+
+.cardimg4 {
+    margin-top: 100px;
+    padding-left: 0;
+}
+
+.cardimg5 {
+ 
+    padding-left: 35px;
+}
